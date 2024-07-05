@@ -1,0 +1,742 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "permutations",
+            "request": "launch",
+            "mainClass": "permutations",
+            "projectName": "DSA APNA_3f1472c2"
+        },
+        {
+            "type": "java",
+            "name": "subsets",
+            "request": "launch",
+            "mainClass": "subsets",
+            "projectName": "DSA APNA_3f1472c2"
+        },
+        {
+            "type": "java",
+            "name": "floorceil",
+            "request": "launch",
+            "mainClass": "floorceil",
+            "projectName": "DSA APNA_3f1472c2"
+        },
+        {
+            "type": "java",
+            "name": "basic",
+            "request": "launch",
+            "mainClass": "basic",
+            "projectName": "DSA APNA_3f1472c2"
+        },
+        {
+            "type": "java",
+            "name": "Testing",
+            "request": "launch",
+            "mainClass": "Testing",
+            "projectName": "DSA APNA_3f1472c2"
+        },
+        {
+            "type": "java",
+            "name": "MajorityElement",
+            "request": "launch",
+            "mainClass": "MajorityElement",
+            "projectName": "DSA APNA_3f1472c2"
+        },
+        {
+            "type": "java",
+            "name": "bruteforceMaxSum",
+            "request": "launch",
+            "mainClass": "bruteforceMaxSum",
+            "projectName": "DSA APNA_3f1472c2"
+        },
+        {
+            "type": "java",
+            "name": "pascals",
+            "request": "launch",
+            "mainClass": "pascals",
+            "projectName": "DSA APNA_3f1472c2"
+        },
+        {
+            "type": "java",
+            "name": "rotate90",
+            "request": "launch",
+            "mainClass": "rotate90",
+            "projectName": "DSA APNA_3f1472c2"
+        },
+        {
+            "type": "java",
+            "name": "setzeros",
+            "request": "launch",
+            "mainClass": "setzeros",
+            "projectName": "DSA APNA_3f1472c2"
+        },
+        {
+            "type": "java",
+            "name": "SetzerosMatrix",
+            "request": "launch",
+            "mainClass": "SetzerosMatrix",
+            "projectName": "DSA APNA_3f1472c2"
+        },
+        {
+            "type": "java",
+            "name": "setzerosMatrix",
+            "request": "launch",
+            "mainClass": "setzerosMatrix",
+            "projectName": "DSA APNA_3f1472c2"
+        },
+        {
+            "type": "java",
+            "name": "buySellstocks",
+            "request": "launch",
+            "mainClass": "buySellstocks",
+            "projectName": "DSA APNA_3f1472c2"
+        },
+        {
+            "type": "java",
+            "name": "moveZerosToEnd",
+            "request": "launch",
+            "mainClass": "moveZerosToEnd",
+            "projectName": "DSA APNA_3f1472c2"
+        },
+        {
+            "type": "java",
+            "name": "leftRotateDplaces",
+            "request": "launch",
+            "mainClass": "leftRotateDplaces",
+            "projectName": "DSA APNA_3f1472c2"
+        },
+        {
+            "type": "java",
+            "name": "leftRotate",
+            "request": "launch",
+            "mainClass": "leftRotate",
+            "projectName": "DSA APNA_3f1472c2"
+        },
+        {
+            "type": "java",
+            "name": "removeDuplica",
+            "request": "launch",
+            "mainClass": "removeDuplica",
+            "projectName": "DSA APNA_3f1472c2"
+        },
+        {
+            "type": "java",
+            "name": "removeDuplicatesSorted",
+            "request": "launch",
+            "mainClass": "removeDuplicatesSorted",
+            "projectName": "DSA APNA_3f1472c2"
+        },
+        {
+            "type": "java",
+            "name": "stringRevRECR",
+            "request": "launch",
+            "mainClass": "stringRevRECR",
+            "projectName": "DSA APNA_3f1472c2"
+        },
+        {
+            "type": "java",
+            "name": "reverseArrayRECR",
+            "request": "launch",
+            "mainClass": "reverseArrayRECR",
+            "projectName": "DSA APNA_3f1472c2"
+        },
+        {
+            "type": "java",
+            "name": "GCD",
+            "request": "launch",
+            "mainClass": "GCD",
+            "projectName": "DSA APNA_3f1472c2"
+        },
+        {
+            "type": "java",
+            "name": "count",
+            "request": "launch",
+            "mainClass": "count",
+            "projectName": "DSA APNA_3f1472c2"
+        },
+        {
+            "type": "java",
+            "name": "reverseQue",
+            "request": "launch",
+            "mainClass": "Queue.reverseQue",
+            "projectName": "DSA APNA_3f1472c2"
+        },
+        {
+            "type": "java",
+            "name": "Dequee",
+            "request": "launch",
+            "mainClass": "Queue.Dequee",
+            "projectName": "DSA APNA_3f1472c2"
+        },
+        {
+            "type": "java",
+            "name": "queueCLL",
+            "request": "launch",
+            "mainClass": "Queue.queueCLL",
+            "projectName": "DSA APNA_3f1472c2"
+        },
+        {
+            "type": "java",
+            "name": "square",
+            "request": "launch",
+            "mainClass": "Pattern.square",
+            "projectName": "DSA APNA_3f1472c2"
+        },
+        {
+            "type": "java",
+            "name": "max",
+            "request": "launch",
+            "mainClass": "max",
+            "projectName": "DSA APNA_3f1472c2"
+        },
+        {
+            "type": "java",
+            "name": "queueLL",
+            "request": "launch",
+            "mainClass": "Queue.queueLL",
+            "projectName": "DSA APNA_3f1472c2"
+        },
+        {
+            "type": "java",
+            "name": "postfixEvaluation",
+            "request": "launch",
+            "mainClass": "postfixEvaluation",
+            "projectName": "DSA APNA_3f1472c2"
+        },
+        {
+            "type": "java",
+            "name": "secondlargest",
+            "request": "launch",
+            "mainClass": "secondlargest",
+            "projectName": "DSA APNA_3f1472c2"
+        },
+        {
+            "type": "java",
+            "name": "prefixIndetail",
+            "request": "launch",
+            "mainClass": "prefixIndetail",
+            "projectName": "DSA APNA_3f1472c2"
+        },
+        {
+            "type": "java",
+            "name": "infixindetail",
+            "request": "launch",
+            "mainClass": "infixindetail",
+            "projectName": "DSA APNA_3f1472c2"
+        },
+        {
+            "type": "java",
+            "name": "InfixEvaluation",
+            "request": "launch",
+            "mainClass": "InfixEvaluation",
+            "projectName": "DSA APNA_3f1472c2"
+        },
+        {
+            "type": "java",
+            "name": "infixToPrefix",
+            "request": "launch",
+            "mainClass": "infixToPrefix",
+            "projectName": "DSA APNA_3f1472c2"
+        },
+        {
+            "type": "java",
+            "name": "infix",
+            "request": "launch",
+            "mainClass": "infix",
+            "projectName": "DSA APNA_3f1472c2"
+        },
+        {
+            "type": "java",
+            "name": "trappingRainWaterS",
+            "request": "launch",
+            "mainClass": "trappingRainWaterS",
+            "projectName": "DSA APNA_3f1472c2"
+        },
+        {
+            "type": "java",
+            "name": "secondLargest",
+            "request": "launch",
+            "mainClass": "secondLargest",
+            "projectName": "DSA APNA_3f1472c2"
+        },
+        {
+            "type": "java",
+            "name": "pushAtBottom",
+            "request": "launch",
+            "mainClass": "pushAtBottom",
+            "projectName": "DSA APNA_3f1472c2"
+        },
+        {
+            "type": "java",
+            "name": "maxRect",
+            "request": "launch",
+            "mainClass": "maxRect",
+            "projectName": "DSA APNA_3f1472c2"
+        },
+        {
+            "type": "java",
+            "name": "stacksingArrayList",
+            "request": "launch",
+            "mainClass": "stacksingArrayList",
+            "projectName": "DSA APNA_3f1472c2"
+        },
+        {
+            "type": "java",
+            "name": "stockSpan",
+            "request": "launch",
+            "mainClass": "Stackss.stockSpan",
+            "projectName": "DSA APNA_3f1472c2"
+        },
+        {
+            "type": "java",
+            "name": "validParenthasis",
+            "request": "launch",
+            "mainClass": "Stackss.validParenthasis",
+            "projectName": "DSA APNA_3f1472c2"
+        },
+        {
+            "type": "java",
+            "name": "validParenthasis",
+            "request": "launch",
+            "mainClass": "validParenthasis",
+            "projectName": "DSA APNA_3f1472c2"
+        },
+        {
+            "type": "java",
+            "name": "stockSpan",
+            "request": "launch",
+            "mainClass": "Stacks.stockSpan",
+            "projectName": "DSA APNA_3f1472c2"
+        },
+        {
+            "type": "java",
+            "name": "nextGreater",
+            "request": "launch",
+            "mainClass": "Stacks.nextGreater",
+            "projectName": "DSA APNA_3f1472c2"
+        },
+        {
+            "type": "java",
+            "name": "removeConsecutive",
+            "request": "launch",
+            "mainClass": "Stacks.removeConsecutive",
+            "projectName": "DSA APNA_3f1472c2"
+        },
+        {
+            "type": "java",
+            "name": "validParenthasis",
+            "request": "launch",
+            "mainClass": "Stacks.validParenthasis",
+            "projectName": "DSA APNA_3f1472c2"
+        },
+        {
+            "type": "java",
+            "name": "reverseStack",
+            "request": "launch",
+            "mainClass": "Stacks.reverseStack",
+            "projectName": "DSA APNA_3f1472c2"
+        },
+        {
+            "type": "java",
+            "name": "reverseString",
+            "request": "launch",
+            "mainClass": "Stacks.reverseString",
+            "projectName": "DSA APNA_3f1472c2"
+        },
+        {
+            "type": "java",
+            "name": "pushAtBottom",
+            "request": "launch",
+            "mainClass": "Stacks.pushAtBottom",
+            "projectName": "DSA APNA_3f1472c2"
+        },
+        {
+            "type": "java",
+            "name": "stacksusingLinkedList",
+            "request": "launch",
+            "mainClass": "Stacks.stacksusingLinkedList",
+            "projectName": "DSA APNA_3f1472c2"
+        },
+        {
+            "type": "java",
+            "name": "stacksusingLinkedList",
+            "request": "launch",
+            "mainClass": "stacksusingLinkedList",
+            "projectName": "DSA APNA_3f1472c2"
+        },
+        {
+            "type": "java",
+            "name": "stacksingArrayList",
+            "request": "launch",
+            "mainClass": "Stacks.stacksingArrayList",
+            "projectName": "DSA APNA_3f1472c2"
+        },
+        {
+            "type": "java",
+            "name": "eh",
+            "request": "launch",
+            "mainClass": "eh",
+            "projectName": "DSA APNA_3f1472c2"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "DSA APNA_3f1472c2"
+        },
+        {
+            "type": "java",
+            "name": "InterfaceTest2",
+            "request": "launch",
+            "mainClass": "InterfaceTest2",
+            "projectName": "DSA APNA_3f1472c2"
+        },
+        {
+            "type": "java",
+            "name": "evenodd",
+            "request": "launch",
+            "mainClass": "BitManulplation.evenodd",
+            "projectName": "DSA APNA_3f1472c2"
+        },
+        {
+            "name": "Attach to Chrome",
+            "port": 9222,
+            "request": "attach",
+            "type": "chrome",
+            "webRoot": "${workspaceFolder}"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "bubble",
+            "request": "launch",
+            "mainClass": "SORTINGS.bubble",
+            "projectName": "DSA APNA_ba878153"
+        },
+        {
+            "type": "java",
+            "name": "countingSort",
+            "request": "launch",
+            "mainClass": "SORTINGS.countingSort",
+            "projectName": "DSA APNA_ba878153"
+        },
+        {
+            "type": "java",
+            "name": "insertion",
+            "request": "launch",
+            "mainClass": "SORTINGS.insertion",
+            "projectName": "DSA APNA_ba878153"
+        },
+        {
+            "type": "java",
+            "name": "mergeSort",
+            "request": "launch",
+            "mainClass": "SORTINGS.mergeSort",
+            "projectName": "DSA APNA_ba878153"
+        },
+        {
+            "type": "java",
+            "name": "quickSort",
+            "request": "launch",
+            "mainClass": "SORTINGS.quickSort",
+            "projectName": "DSA APNA_ba878153"
+        },
+        {
+            "type": "java",
+            "name": "searchInRotated",
+            "request": "launch",
+            "mainClass": "SORTINGS.searchInRotated",
+            "projectName": "DSA APNA_ba878153"
+        },
+        {
+            "type": "java",
+            "name": "selectionsorting",
+            "request": "launch",
+            "mainClass": "SORTINGS.selectionsorting",
+            "projectName": "DSA APNA_ba878153"
+        },
+        {
+            "type": "java",
+            "name": "allOccurence",
+            "request": "launch",
+            "mainClass": "allOccurence",
+            "projectName": "DSA APNA_ba878153"
+        },
+        {
+            "type": "java",
+            "name": "arraysorted",
+            "request": "launch",
+            "mainClass": "arraysorted",
+            "projectName": "DSA APNA_ba878153"
+        },
+        {
+            "type": "java",
+            "name": "basic",
+            "request": "launch",
+            "mainClass": "basic",
+            "projectName": "DSA APNA_ba878153"
+        },
+        {
+            "type": "java",
+            "name": "binaryStrings",
+            "request": "launch",
+            "mainClass": "binaryStrings",
+            "projectName": "DSA APNA_ba878153"
+        },
+        {
+            "type": "java",
+            "name": "binarysearch",
+            "request": "launch",
+            "mainClass": "binarysearch",
+            "projectName": "DSA APNA_ba878153"
+        },
+        {
+            "type": "java",
+            "name": "bruteforceMaxSum",
+            "request": "launch",
+            "mainClass": "bruteforceMaxSum",
+            "projectName": "DSA APNA_ba878153"
+        },
+        {
+            "type": "java",
+            "name": "buySellstocks",
+            "request": "launch",
+            "mainClass": "buySellstocks",
+            "projectName": "DSA APNA_ba878153"
+        },
+        {
+            "type": "java",
+            "name": "diagonalSum",
+            "request": "launch",
+            "mainClass": "diagonalSum",
+            "projectName": "DSA APNA_ba878153"
+        },
+        {
+            "type": "java",
+            "name": "factorials",
+            "request": "launch",
+            "mainClass": "factorials",
+            "projectName": "DSA APNA_ba878153"
+        },
+        {
+            "type": "java",
+            "name": "firstoccurence",
+            "request": "launch",
+            "mainClass": "firstoccurence",
+            "projectName": "DSA APNA_ba878153"
+        },
+        {
+            "type": "java",
+            "name": "friendspairing",
+            "request": "launch",
+            "mainClass": "friendspairing",
+            "projectName": "DSA APNA_ba878153"
+        },
+        {
+            "type": "java",
+            "name": "gridways",
+            "request": "launch",
+            "mainClass": "gridways",
+            "projectName": "DSA APNA_ba878153"
+        },
+        {
+            "type": "java",
+            "name": "kadanes",
+            "request": "launch",
+            "mainClass": "kadanes",
+            "projectName": "DSA APNA_ba878153"
+        },
+        {
+            "type": "java",
+            "name": "largestelement",
+            "request": "launch",
+            "mainClass": "largestelement",
+            "projectName": "DSA APNA_ba878153"
+        },
+        {
+            "type": "java",
+            "name": "lastoccerence",
+            "request": "launch",
+            "mainClass": "lastoccerence",
+            "projectName": "DSA APNA_ba878153"
+        },
+        {
+            "type": "java",
+            "name": "lengthOfString",
+            "request": "launch",
+            "mainClass": "lengthOfString",
+            "projectName": "DSA APNA_ba878153"
+        },
+        {
+            "type": "java",
+            "name": "lin",
+            "request": "launch",
+            "mainClass": "lin",
+            "projectName": "DSA APNA_ba878153"
+        },
+        {
+            "type": "java",
+            "name": "nQueenPossible",
+            "request": "launch",
+            "mainClass": "nQueenPossible",
+            "projectName": "DSA APNA_ba878153"
+        },
+        {
+            "type": "java",
+            "name": "nQueens",
+            "request": "launch",
+            "mainClass": "nQueens",
+            "projectName": "DSA APNA_ba878153"
+        },
+        {
+            "type": "java",
+            "name": "naturalnum",
+            "request": "launch",
+            "mainClass": "naturalnum",
+            "projectName": "DSA APNA_ba878153"
+        },
+        {
+            "type": "java",
+            "name": "nthfibonacci",
+            "request": "launch",
+            "mainClass": "nthfibonacci",
+            "projectName": "DSA APNA_ba878153"
+        },
+        {
+            "type": "java",
+            "name": "pairArrays",
+            "request": "launch",
+            "mainClass": "pairArrays",
+            "projectName": "DSA APNA_ba878153"
+        },
+        {
+            "type": "java",
+            "name": "permutations",
+            "request": "launch",
+            "mainClass": "permutations",
+            "projectName": "DSA APNA_ba878153"
+        },
+        {
+            "type": "java",
+            "name": "prefixSum",
+            "request": "launch",
+            "mainClass": "prefixSum",
+            "projectName": "DSA APNA_ba878153"
+        },
+        {
+            "type": "java",
+            "name": "ratmaze",
+            "request": "launch",
+            "mainClass": "ratmaze",
+            "projectName": "DSA APNA_ba878153"
+        },
+        {
+            "type": "java",
+            "name": "removeduplicates",
+            "request": "launch",
+            "mainClass": "removeduplicates",
+            "projectName": "DSA APNA_ba878153"
+        },
+        {
+            "type": "java",
+            "name": "reversArray",
+            "request": "launch",
+            "mainClass": "reversArray",
+            "projectName": "DSA APNA_ba878153"
+        },
+        {
+            "type": "java",
+            "name": "sortedSearch",
+            "request": "launch",
+            "mainClass": "sortedSearch",
+            "projectName": "DSA APNA_ba878153"
+        },
+        {
+            "type": "java",
+            "name": "spiral",
+            "request": "launch",
+            "mainClass": "spiral",
+            "projectName": "DSA APNA_ba878153"
+        },
+        {
+            "type": "java",
+            "name": "subArrays",
+            "request": "launch",
+            "mainClass": "subArrays",
+            "projectName": "DSA APNA_ba878153"
+        },
+        {
+            "type": "java",
+            "name": "subsets",
+            "request": "launch",
+            "mainClass": "subsets",
+            "projectName": "DSA APNA_ba878153"
+        },
+        {
+            "type": "java",
+            "name": "sudokoSolver",
+            "request": "launch",
+            "mainClass": "sudokoSolver",
+            "projectName": "DSA APNA_ba878153"
+        },
+        {
+            "type": "java",
+            "name": "sumofn",
+            "request": "launch",
+            "mainClass": "sumofn",
+            "projectName": "DSA APNA_ba878153"
+        },
+        {
+            "type": "java",
+            "name": "tiling",
+            "request": "launch",
+            "mainClass": "tiling",
+            "projectName": "DSA APNA_ba878153"
+        },
+        {
+            "type": "java",
+            "name": "towerOfHanoi",
+            "request": "launch",
+            "mainClass": "towerOfHanoi",
+            "projectName": "DSA APNA_ba878153"
+        },
+        {
+            "type": "java",
+            "name": "trappingRainWater",
+            "request": "launch",
+            "mainClass": "trappingRainWater",
+            "projectName": "DSA APNA_ba878153"
+        },
+        {
+            "type": "java",
+            "name": "twodArray",
+            "request": "launch",
+            "mainClass": "twodArray",
+            "projectName": "DSA APNA_ba878153"
+        },
+        {
+            "type": "java",
+            "name": "twosum",
+            "request": "launch",
+            "mainClass": "twosum",
+            "projectName": "DSA APNA_ba878153"
+        },
+        {
+            "type": "java",
+            "name": "xpown",
+            "request": "launch",
+            "mainClass": "xpown",
+            "projectName": "DSA APNA_ba878153"
+        }
+    ]
+}
