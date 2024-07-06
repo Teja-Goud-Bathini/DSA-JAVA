@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "subSetSumk",
+            "request": "launch",
+            "mainClass": "subSetSumk",
+            "projectName": "DSA APNA_3f1472c2"
+        },
+        {
+            "type": "java",
             "name": "permutations",
             "request": "launch",
             "mainClass": "permutations",
